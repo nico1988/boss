@@ -182,7 +182,7 @@ figure {
 .view-frame.ng-enter {
     z-index: 2;
     top: 0;
-    animation: 1.5s fadeIn;
+    animation: 1s fadeIn;
 }
 
 
